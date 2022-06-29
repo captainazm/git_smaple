@@ -5,4 +5,3 @@ print(f"(first num) + (second num) = {num1 + num2}")
 print(f"(first num) - (second num) = {num1 - num2}")
 print(f"(first num) x (second num) = {num1 * num2}")
 print(f"(first num) / (second num) = {num1 / num2}")
-
